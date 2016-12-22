@@ -1,0 +1,35 @@
+{
+  "name": "township-cookie",
+  "version": "1.0.0",
+  "description": "cookie management for township servers",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/*.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/township/township-cookie.git"
+  },
+  "keywords": [
+    "township",
+    "auth",
+    "cookie"
+  ],
+  "author": "sethvincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/township/township-cookie/issues"
+  },
+  "homepage": "https://github.com/township/township-cookie#readme",
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "cookie-cutter": "^0.2.0"
+  }
+}
