@@ -9,8 +9,8 @@ helpers for using cookies with township
 
 [npm-image]: https://img.shields.io/npm/v/township-cookie.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/township-cookie
-[travis-image]: https://img.shields.io/travis/sethvincent/township-cookie.svg?style=flat-square
-[travis-url]: https://travis-ci.org/sethvincent/township-cookie
+[travis-image]: https://img.shields.io/travis/township/township-cookie.svg?style=flat-square
+[travis-url]: https://travis-ci.org/township/township-cookie
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
 [conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
